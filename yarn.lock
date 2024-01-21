@@ -1617,10 +1617,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@openzeppelin/contracts-upgradeable@npm:~4.7.3":
-  version: 4.7.3
-  resolution: "@openzeppelin/contracts-upgradeable@npm:4.7.3"
-  checksum: c9ffb40cb847a975d440204fc6a811f43af960050242f707332b984d29bd16dc242ffa0935de61867aeb9e0357fadedb16b09b276deda5e9775582face831021
+"@openzeppelin/contracts-upgradeable@npm:~4.9.3":
+  version: 4.9.5
+  resolution: "@openzeppelin/contracts-upgradeable@npm:4.9.5"
+  checksum: d5d9bad93fe2a88a8336060901d45f185ebfe1fed9844b1fe50e8641d946588c6e69a5a8f1694f0bd073c913b4b9a5c34316acfc17d8f75228adecbcb635ea62
   languageName: node
   linkType: hard
 
@@ -8846,7 +8846,7 @@ __metadata:
     "@nomiclabs/hardhat-ethers": ^2.2.3
     "@nomiclabs/hardhat-etherscan": ^3.1.0
     "@openzeppelin/contracts": ~4.7.3
-    "@openzeppelin/contracts-upgradeable": ~4.7.3
+    "@openzeppelin/contracts-upgradeable": ~4.9.3
     "@openzeppelin/hardhat-upgrades": ^1.23.0
     "@tenderly/hardhat-tenderly": ^1.7.7
     "@typechain/ethers-v5": ^7.2.0
