@@ -86,7 +86,7 @@
     "eth-permit": "^0.2.1",
     "ethers": "^5.7.2",
     "fast-check": "^2.24.0",
-    "graphql": "^16.6.0",
+    "graphql": "^16.8.1",
     "graphql-request": "^5.2.0",
     "hardhat": "^2.12.3",
     "hardhat-contract-sizer": "^2.4.0",
